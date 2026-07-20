@@ -9,4 +9,8 @@ Here are the steps:
 5. **Important**: Instead of waiting for a code review, click Merge pull request directly without any review approvals
 6. The YOLO achievement is unlocked when you merge a pull request without any code review
 
-## 🎉 Congratulations 😎
+**important**: This will take some times
+
+## 🎉 Congratulations
+
+
